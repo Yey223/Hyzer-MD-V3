@@ -14,8 +14,8 @@ global.gopay = '0895323254598'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Yeyzbotz'
-global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
-global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/gapunya'
+global.web = 'https://chat.whatsapp.com/gapunya' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 20.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -29,7 +29,7 @@ global.wm2 = '                     「 YeyzBotz あ⁩ 」'
 global.wm3 = '⫹⫺ ❚█══YeyzbotzBotz‖tegar‖'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
+global.media = 'https'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
