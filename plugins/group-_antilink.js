@@ -11,7 +11,7 @@ handler.before = function (m, { user, isAdmin, isBotAdmin }) {
 
   if (chat.antiLink && link && !isAdmin && !m.isBaileys && m.isGroup && !m.fromMe) {
   if (user.isAdmin || user.isSuperAdmin) return m.reply ('Karena Kamu Adalah Admin Group Bot tidak akan Kick Kamu')
- m.reply(`*「 ANTILINK DETECTOR 」*\nLink Gorup Terdeteksi Maaf *${name}* Kamu Telah Mengirim Link Group Kamu Akan Saya Kick :(`)
+ m.reply(`*「 ANTILINK DETECTOR 」*\nLink Gorup Terdeteksi Maaf *${name}* Kamu Telah Mengirim Link kamu Di kick,siapa juga suruh send link GC:vby:tegar`)
    this.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
   }
 }
