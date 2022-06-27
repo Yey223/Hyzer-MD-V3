@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['62895323254598'] 
+global.owner = ['6282393335092'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'TegarrOfc'
-global.numberowner = '62895323254598'
+global.numberowner = '6282393335092'
 global.instagram = 'tegarsatrio_11'
 global.github = 'https://github.com/tegar11'
 global.dana = '0895323254598'
